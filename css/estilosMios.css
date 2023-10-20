@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box; 
-    /* border: solid 1px orange; para buscar errores y detectar dónde coño desborda*/
+    
     margin: 0px;
     padding: 0px;
 }
@@ -8,15 +8,12 @@ body{
     width:auto;
     height:auto;
     max-width: 100%!important;
-    background-color: #4c3041;/*Color estándar de la clínica*/
-    /* overflow-x: hidden; */
-   /*  overflow: scroll;
-    position: relative; */
+    background-color: #4c3041;
+
 }
 nav{
     border-bottom:4px solid white;
 }
-/*estado scrollspy*/
 .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
     color: #000;
     background: #fff;
@@ -32,7 +29,6 @@ nav{
    75% {background-color: rgb(255, 255, 255);color:black;} 
   100% {background-color: #b8b268;color:white;} 
 }
-/*estado scrollspy*/
 .bgNav{
     background-color: #4c3041;
 }
@@ -72,9 +68,7 @@ nav{
     padding: 2%;
     color: rgb(255, 255, 255)!important;
     background-color: #4c3041f2;
-    /*evitar desbordar texto de la caja */
     overflow-wrap: break-word;
-     /*evitar desbordar texto de la caja */
 }
 .espacioParaFixNav{
     margin-top: 7rem;
@@ -99,20 +93,6 @@ height: auto;
     height: auto;
   
 }
-/* .imgFija{
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%!important;
-    height: auto;
-    min-height: 50vh;
-    background-image: url("../img/equipo.png");
-    background-position:  center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment:fixed;
-  } */
   .imgFija{
     height: 65vh;
     background-image: url("../img/equipo.png");
@@ -126,7 +106,6 @@ height: auto;
     align-items: center;
   }
   .contactoBg{
-    /* padding: 3.5%; */
     width: 100%;
     height: auto;
   
@@ -213,9 +192,7 @@ height: auto;
 /*Php formulario*/
 .enviadoOk{
     width: auto;
-    height: auto;
-   /* margin-top: 2%!important;*/
-   
+    height: auto; 
     font-size: 18px;
     background-color: green;
     padding: 10px;
