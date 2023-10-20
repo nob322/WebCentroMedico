@@ -117,7 +117,25 @@
             <p class="text-white">En "De Buena Salud" Centro Médico, nuestra visión es ser reconocidos a nivel nacional e internacional como un referente de excelencia en la atención médica. Nos esforzamos por proporcionar una atención integral y de la más alta calidad, promoviendo la salud y el bienestar de nuestros pacientes en cada etapa de sus vidas.
             Nos comprometemos a estar a la vanguardia de la medicina, utilizando tecnología de punta y adoptando constantemente avances científicos para garantizar diagnósticos precisos y tratamientos efectivos.</p>
         </div>
+                 <h5 class="text-white text-center"><i class="fa-solid fa-house-medical-flag"></i> EL FUTURO DE NUESTRA EMPRESA</h5>
+        <p class="text-white">El futuro de nuestra empresa es una visión apasionante y llena de posibilidades. Estamos comprometidos con la innovación y la excelencia en todo lo que hacemos. Nuestro equipo está formado por profesionales altamente capacitados y dedicados que comparten una visión común de liderar en nuestro campo.
+Nos esforzamos por superar los límites y explorar nuevas oportunidades de crecimiento. Estamos constantemente buscando formas de mejorar nuestros productos y servicios para satisfacer las necesidades cambiantes de nuestros clientes. La tecnología y la creatividad son nuestros aliados en este viaje hacia el éxito.
+Valoramos la colaboración y la diversidad de pensamiento. Creemos que cada miembro de nuestro equipo aporta una perspectiva única que enriquece nuestra cultura corporativa. Fomentamos un ambiente de trabajo inclusivo y de apoyo donde cada idea es valorada y cada logro es celebrado.
+Nos enorgullecemos de nuestro compromiso con la sostenibilidad y la responsabilidad social. Buscamos no solo alcanzar el éxito financiero, sino también contribuir positivamente a la comunidad y al medio ambiente.
+En resumen, el futuro de nuestra empresa se construye sobre una base de pasión, innovación y colaboración. Estamos emocionados por lo que está por venir y estamos listos para enfrentar cualquier desafío que se presente en nuestro camino hacia el éxito.</p>
     </div>
+       <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+            <h5 class="text-center text-white"><i class="fa-solid fa-virus-covid"></i> LA PANDEMIA NOS LLEVÓ A CRECER</h5>
+            <p class="text-white">La pandemia  marcó un momento crucial en la historia de la medicina. En De Buena Salud Centro Médico, vimos esta crisis como una oportunidad para crecer y adaptarnos de manera innovadora a los desafíos que se presentaron. A pesar de las dificultades, no solo sobrevivimos, sino que prosperamos.
+Nuestro compromiso con la atención médica de calidad y el bienestar de nuestros pacientes fue el motor de nuestro crecimiento. Implementamos tecnologías de vanguardia que permitieron consultas virtuales y acceso a la atención médica desde la comodidad del hogar. Esta transformación no solo nos permitió seguir brindando servicios esenciales, sino que también amplió nuestro alcance a una audiencia global.
+Nuestro equipo de profesionales demostró una increíble adaptabilidad y resiliencia. Se capacitó en nuevas técnicas y protocolos para garantizar la seguridad tanto de los pacientes como del personal. La colaboración interdisciplinaria se fortaleció, permitiendo un enfoque más completo y eficaz en el cuidado de la salud.
+</p>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+        <div id="myfirstchart" class="grafico" data-aos="zoom-in"></div>
+        </div>
+    </div> 
 </div>
 <div id="videoSiNo">
 </div>
@@ -361,3 +379,9 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
 <script src="js/ajax.js"></script>
 </body>
 </html>
+
+
+
+
+
+
