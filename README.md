@@ -8,9 +8,9 @@
 </div>
 <br>
 <br>
-                                        Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5, Html 5
- <br>
+                                                              Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5, Html 5
 <br>
-<div id="header" align="center">
+<br>
+<div id="header" align="center"><br>
     <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="660"/ autoplay>
 </div>
