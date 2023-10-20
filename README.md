@@ -8,7 +8,7 @@
 </div>
 <br>
 <br>
-                                                              Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5, Html 5
+                                                                      Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5 y Html 5
 <br>
 <br>
 <div id="header" align="center"><br>
