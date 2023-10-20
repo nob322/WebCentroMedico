@@ -30,25 +30,21 @@
           <a class="text-color-nav nav-link fontSizeNav separarElementos text-center colorVerde active" aria-current="page" href="#"><i class="fa-regular fa-hand-point-up"></i> PRINCIPAL</a>
         </li>
             </div>
-  
             <div class="col-xs-12 col-sm-12 col-md col-lg col-xl col-xxl">
                 <li class="nav-item">
                    <a class="text-color-nav nav-link fontSizeNav separarElementos text-center colorVerde" href="#NOSOTROS"><i class="fa-solid fa-hospital-user"></i> NOSOTROS</a>
                  </li>
             </div>
-       
             <div class="col-xs-12 col-sm-12 col-md col-lg col-xl col-xxl">
             <li class="nav-item">
           <a class="text-color-nav nav-link fontSizeNav separarElementos text-center colorVerde" href="#SERVICIOS"><i class="fa-solid fa-stethoscope"></i> SERVICIOS</a>
         </li>
             </div>
-
             <div class="col-xs-12 col-sm-12 col-md col-lg col-xl col-xxl">
             <li class="nav-item">
           <a class="text-color-nav nav-link fontSizeNav separarElementos text-center colorVerde" href="#CONTACTO"><i class="fa-regular fa-envelope"></i> CONTACTO</a>
         </li>
             </div>
-       
             <div class="col-xs-12 col-sm-12 col-md col-lg col-xl col-xxl centradoRedes">
             <li class="text-center">
                 <a href="www.facebook.com"><i class="fa-brands fa-facebook fa-beat-fade fa-lg  text-color-nav nav-link  fontSizeNav colorVerde"></i></a>&nbsp;&nbsp;&nbsp;   
@@ -96,50 +92,35 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
 <div class="container">
     <a id="NOSOTROS" class="topAnclas"></a>
     <h1 class="text-center colorVerde mt-5 mBottom"><i class="fa-solid fa-hospital-user"></i> NOSOTROS</h1><br>
     <p class="text-center text-white" data-aos="fade-up"
      data-aos-duration="2000">Bienvenidos a "De Buena Salud" Centro Médico, una institución líder dedicada a proporcionar una atención médica integral y un cuidado excepcional de la salud de nuestros pacientes. Nuestro equipo interdisciplinario de profesionales altamente calificados se esfuerza por ofrecer un enfoque integral y personalizado para cada paciente, centrándose en su bienestar físico, emocional y mental.
-
-Nuestros servicios abarcan un amplio espectro, desde consultas médicas especializadas para adultos y niños hasta una atención de emergencia ágil y precisa. Contamos con tecnología de vanguardia para un diagnóstico preciso y eficiente de una amplia gama de enfermedades. Además, ofrecemos una variedad de terapias diseñadas para mejorar la calidad de vida de nuestros pacientes.
-
-En "De Buena Salud" Centro Médico, también nos especializamos en el control y seguimiento del desarrollo infantil, asegurando un crecimiento saludable y un futuro prometedor para los más pequeños. La infectología es otra de nuestras áreas de experiencia, donde brindamos diagnósticos y tratamientos avanzados para una amplia variedad de condiciones.
-
-No solo nos enfocamos en la salud física, sino que también valoramos el bienestar estético y emocional de nuestros pacientes. Ofrecemos servicios de medicina estética de vanguardia que buscan realzar la belleza natural y aumentar la confianza en uno mismo.
-
-Además, somos pioneros en la aplicación de la psiconeuroinmunología y la programación neurolingüística para abordar la interconexión entre mente y cuerpo, permitiendo un enfoque integral y holístico en el tratamiento de nuestras pacientes.
-
-Estamos comprometidos con la prestación de atención médica de la más alta calidad, segura y efectiva para nuestros pacientes y sus familias. Cada miembro de nuestro equipo está dedicado a mantenerse a la vanguardia de los avances médicos y tecnológicos, garantizando así que recibirá la atención más actualizada y personalizada posible.
-
-Creemos en la importancia de una comunicación abierta y transparente con nuestros pacientes. Entendemos que cada individuo es único y, por lo tanto, nos esforzamos por adaptar nuestros tratamientos para satisfacer sus necesidades específicas.
-
-Le damos la bienvenida a "De Buena Salud" Centro Médico y agradecemos la confianza que deposita en nosotros. Estamos dedicados a superar sus expectativas en cada interacción y a ser su aliado en el camino hacia una vida saludable y plena.</p>
+    Nuestros servicios abarcan un amplio espectro, desde consultas médicas especializadas para adultos y niños hasta una atención de emergencia ágil y precisa. Contamos con tecnología de vanguardia para un diagnóstico preciso y eficiente de una amplia gama de enfermedades. Además, ofrecemos una variedad de terapias diseñadas para mejorar la calidad de vida de nuestros pacientes.
+    En "De Buena Salud" Centro Médico, también nos especializamos en el control y seguimiento del desarrollo infantil, asegurando un crecimiento saludable y un futuro prometedor para los más pequeños. La infectología es otra de nuestras áreas de experiencia, donde brindamos diagnósticos y tratamientos avanzados para una amplia variedad de condiciones.
+    No solo nos enfocamos en la salud física, sino que también valoramos el bienestar estético y emocional de nuestros pacientes. Ofrecemos servicios de medicina estética de vanguardia que buscan realzar la belleza natural y aumentar la confianza en uno mismo.
+    Además, somos pioneros en la aplicación de la psiconeuroinmunología y la programación neurolingüística para abordar la interconexión entre mente y cuerpo, permitiendo un enfoque integral y holístico en el tratamiento de nuestras pacientes.
+    Estamos comprometidos con la prestación de atención médica de la más alta calidad, segura y efectiva para nuestros pacientes y sus familias. Cada miembro de nuestro equipo está dedicado a mantenerse a la vanguardia de los avances médicos y tecnológicos, garantizando así que recibirá la atención más actualizada y personalizada posible.
+    Creemos en la importancia de una comunicación abierta y transparente con nuestros pacientes. Entendemos que cada individuo es único y, por lo tanto, nos esforzamos por adaptar nuestros tratamientos para satisfacer sus necesidades específicas.
+    Le damos la bienvenida a "De Buena Salud" Centro Médico y agradecemos la confianza que deposita en nosotros. Estamos dedicados a superar sus expectativas en cada interacción y a ser su aliado en el camino hacia una vida saludable y plena.</p>
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
             <img src="img/vision.png" alt="Visión de la empresa" class="mt-2 mb-2 img-fluid" data-aos="zoom-in">
             <h5 class="text-white text-center"><i class="fa-solid fa-eye-low-vision"></i> VISIÓN</h5>
             <p class="text-white">Nuestra visión en "De Buena Salud" Centro Médico es ser líderes en la prestación de atención médica de excelencia. Buscamos promover la salud y el bienestar de nuestros pacientes a través de servicios especializados y tecnología avanzada, siempre con un enfoque centrado en el paciente.
-
-Nos comprometemos a sobresalir en el diagnóstico, tratamiento y prevención de enfermedades, respaldados por un equipo altamente capacitado y apasionado. Nuestro objetivo es mejorar la calidad de vida de nuestros pacientes en un ambiente amable, seguro y empático.</p>
+            Nos comprometemos a sobresalir en el diagnóstico, tratamiento y prevención de enfermedades, respaldados por un equipo altamente capacitado y apasionado. Nuestro objetivo es mejorar la calidad de vida de nuestros pacientes en un ambiente amable, seguro y empático.</p>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
             <img src="img/mision.png" alt="Misión de la empresa" class="mt-2 mb-2 img-fluid" data-aos="zoom-in">
             <h5 class="text-white text-center"><i class="fa-regular fa-heart"></i> MISIÓN</h5>
             <p class="text-white">En "De Buena Salud" Centro Médico, nuestra visión es ser reconocidos a nivel nacional e internacional como un referente de excelencia en la atención médica. Nos esforzamos por proporcionar una atención integral y de la más alta calidad, promoviendo la salud y el bienestar de nuestros pacientes en cada etapa de sus vidas.
-
-Nos comprometemos a estar a la vanguardia de la medicina, utilizando tecnología de punta y adoptando constantemente avances científicos para garantizar diagnósticos precisos y tratamientos efectivos.</p>
+            Nos comprometemos a estar a la vanguardia de la medicina, utilizando tecnología de punta y adoptando constantemente avances científicos para garantizar diagnósticos precisos y tratamientos efectivos.</p>
         </div>
     </div>
 </div>
-
 <div id="videoSiNo">
-
 </div>
-
-
-
 <div class="container">
 <a id="SERVICIOS"></a>
     <h1 class="text-center colorVerde mt-5 mBottom"><i class="fa-solid fa-stethoscope"></i> SERVICIOS</h1><br>
@@ -159,7 +140,6 @@ Nos comprometemos a estar a la vanguardia de la medicina, utilizando tecnología
       </div>
     </div>
   </div>
-
   <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
       <div class="ratio ratio-16x9">
@@ -169,23 +149,17 @@ Nos comprometemos a estar a la vanguardia de la medicina, utilizando tecnología
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
     <h5 class="text-white text-center">SERVICIO DE INFECTOLOGÍA</h5>
     <p class="text-white">Nuestro Servicio de Infectología en De Buena Salud Centro Médico ofrece una atención integral y de la más alta calidad. Nuestro compromiso es brindar atención médica especializada y actualizada a pacientes de todas las edades, abordando un amplio espectro de condiciones infecciosas.
-
-Esta rama médica se enfoca en el diagnóstico, tratamiento y prevención de enfermedades causadas por una variedad de agentes infecciosos, tales como bacterias, virus, hongos y parásitos. Nuestro equipo de infectólogos, con años de experiencia, se dedica apasionadamente a identificar y tratar enfermedades infecciosas de diversa gravedad y complejidad.
-
-Esto incluye no solo infecciones respiratorias y del tracto urinario, sino también afecciones de la piel, así como enfermedades transmitidas por vectores y de transmisión sexual.
+    Esta rama médica se enfoca en el diagnóstico, tratamiento y prevención de enfermedades causadas por una variedad de agentes infecciosos, tales como bacterias, virus, hongos y parásitos. Nuestro equipo de infectólogos, con años de experiencia, se dedica apasionadamente a identificar y tratar enfermedades infecciosas de diversa gravedad y complejidad.
+    Esto incluye no solo infecciones respiratorias y del tracto urinario, sino también afecciones de la piel, así como enfermedades transmitidas por vectores y de transmisión sexual.
     </p>
     </div>
-  
   </div>
-
-  <div class="row">
+   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
     <h5 class="text-white text-center">SERVICIO DE MEDICINA ESTËTICA</h5>
     <p class="text-white">En De Buena Salud Centro Médico, contamos con un servicio de Medicina Estética especializado en mejorar la apariencia física y el bienestar de nuestros pacientes a través de procedimientos médicos no quirúrgicos. Esta disciplina combina conocimientos médicos con técnicas estéticas para proporcionar soluciones personalizadas que realzan la belleza y la confianza en sí mismos de cada paciente.
-
-Entre los tratamientos ofrecidos en nuestro centro se incluyen el Plasma Rico en Plaquetas, Toxina Botulínica (para arrugas, bruxismo e hiperhidrosis), relleno de ácido hialurónico, Rinomodelación, Hilos Tensores, Peeling importados, así como diagnóstico y tratamiento de la obesidad y el uso de Bioestimuladores como Prohilo, Radiesse, Nuit y Hilos.
-
-Nuestro enfoque va más allá de los cambios físicos;</p>
+    Entre los tratamientos ofrecidos en nuestro centro se incluyen el Plasma Rico en Plaquetas, Toxina Botulínica (para arrugas, bruxismo e hiperhidrosis), relleno de ácido hialurónico, Rinomodelación, Hilos Tensores, Peeling importados, así como diagnóstico y tratamiento de la obesidad y el uso de Bioestimuladores como Prohilo, Radiesse, Nuit y Hilos.
+    Nuestro enfoque va más allá de los cambios físicos;</p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
       <div class="ratio ratio-16x9">
@@ -193,7 +167,6 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
       </div>
     </div>
   </div>
-
   <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
       <div class="ratio ratio-16x9">
@@ -216,53 +189,40 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
 <a id="CONTACTO"></a>
  <div class="contactoBg">
 <h1 class="text-center colorVerde pt-5 mb-5"><i class="fa-regular fa-envelope"></i> CONTACTO</h1>
-
 <div class="container d-flex justify-content-center">
         <form action="procesador/procesa.php" method="POST" class="formularioAjustes">
             <div class="row ">
-            
                   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-1 mb-1">
                     <div class="d-flex justify-content-center">
                       <input type="text" placeholder="Nombre" name="nombre" id="nombre" class="inputsEstilos">
                     </div>
-                    
                  </div>
                   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-1 mb-1">
                     <div class="d-flex justify-content-center">
                         <input type="text" placeholder="Apellido" name="apellido" id="apellido" class="inputsEstilos ">
                     </div>
-                 
                   </div>
             </div>
-
               <div class="row">
-          
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-1 mb-1">
                     <div class="d-flex justify-content-center">
                       <input type="tel" placeholder="Celular" name="celular" id="celular" class="inputsEstilos" >
                     </div>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 mt-1 mb-1">
-                    
                     <div class="d-flex justify-content-center">
-                    
                     <input type="email" placeholder="Email" name="email" id="email" class="inputsEstilos">
                     </div>
                   </div>
               </div>
-
             <div class="row">
-   
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 mt-1 mb-1">
                   <div class="d-flex justify-content-center">
                   <textarea name="mensaje" id="mensaje" cols="36" rows="8" placeholder="Mensaje" class="inputsEstilos"></textarea>
                   </div>
                 </div>
-                
             </div>  
-
             <div class="row">
-   
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 mt-1 mb-1">
                 <div class="d-flex justify-content-center">
                 <input type="submit" class="estiloBtn" value="Envíar" id="btnEnviar" onclick="ajax_post(event);">&nbsp;&nbsp;
@@ -279,9 +239,7 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
                 </div>
                </div>
         </form>
-
 </div>
- 
  <div class="container">
   <div class="row">
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 mt-1 mb-1">
@@ -291,16 +249,13 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
   </div>
 </div>
     </div>  
-
      <div class="container d-flex justify-content-center">
         <div class="datosContacto">
             <div class="row ">
-    
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white mt-4"><i class="fa-solid fa-location-dot fa-shake"></i> Oficina R,centro Comercial Vía Boedo ,Discovery Wy, Dudley DY1 4AL, Reino Unido</p>
                     </div>
-                  
                  </div>
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
@@ -308,53 +263,44 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
                     Dr Pablo Melonari </a><i class="fa-solid fa-clock fa-shake"></i> Lunes y Viernes de 15hs a 20hs</p>
                   </div>
                   </div>
-                  
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i><a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo"> Dr Pablo Alegre </a> <i class="fa-solid fa-clock fa-shake"></i> Miércoles de 13 a 17hs </p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i><a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo"> Dra Maria Emilia Tolosa</a>  <i class="fa-solid fa-clock fa-shake"></i> Jueves 13 a 17 hs</p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i> <a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo">Dra Valentina Mottuls</a> <i class="fa-solid fa-clock fa-shake"></i> Martes 17 a 20hs </p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i> <a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo">Dr Juan Pablo Petric</a> <i class="fa-solid fa-clock fa-shake"></i> Martes 14 a 17hs</p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i> <a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo">Dr Luis Tolosa</a> <i class="fa-solid fa-clock fa-shake"></i> Martes 9 hs </p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-user-doctor"></i> <a data-bs-toggle="tooltip" data-bs-placement="top" title="Especialidad: algo">Dra Romina Bustela</a> <i class="fa-solid fa-clock fa-shake"></i> Jueves 14 a 17hs</p>
                   </div>
                   </div>
-
                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12 ">
                     <div class="d-flex justify-content-center">
                     <p class="text-white"><i class="fa-solid fa-phone-volume fa-shake"></i>  +54 9 341 620 6569 | click<i> <a href="https://api.whatsapp.com/send?phone=54 9 341 620 6569&text=Hola,%20te%20escribo%20desde%20el%20sitio%20web" class="text-white text-decoration-none">acá</a> </i>para escribirnos a nuestro whatsapp</p>
-                    </div>
-                 
+                    </div>              
                   </div>
             </div>
         </div>
     </div> 
-
     <div class="container d-flex justify-content-center">
         <div class="datosRedes">
             <div class="row">
@@ -366,7 +312,6 @@ Nuestro enfoque va más allá de los cambios físicos;</p>
             </div>
         </div>
     </div> 
-
 <footer>
 <hr class="lineaFooter mx-auto">
 <p class="text-center text-white padding-left-1 padding-right-1">debuenasalud.com.ar © copyright-2023 Todos los derechos reservados | Web desarrollada por <a href="mailto:nob32_2@hotmail.com" class="text-white text-decoration-none" data-bs-toggle="tooltip" data-bs-placement="top" title="Desarrollo web a medida: +54 9 341 620 6569"><b class="colorVerde">David Sanchez</b></a>  </p>
