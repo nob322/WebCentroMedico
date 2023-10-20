@@ -1,0 +1,254 @@
+*{
+    box-sizing: border-box; 
+    /* border: solid 1px orange; para buscar errores y detectar dónde coño desborda*/
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width:auto;
+    height:auto;
+    max-width: 100%!important;
+    background-color: #4c3041;/*Color estándar de la clínica*/
+    /* overflow-x: hidden; */
+   /*  overflow: scroll;
+    position: relative; */
+}
+nav{
+    border-bottom:4px solid white;
+}
+/*estado scrollspy*/
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+    color: #000;
+    background: #fff;
+    border-radius: 5px;
+    animation-name: okScrollSpy;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes okScrollSpy{
+    0% {background-color: #b8b268;color:white;} 
+   25% {background-color: rgb(255, 255, 255);color:black;} 
+   50% {background-color: #b8b268;color:white;}
+   75% {background-color: rgb(255, 255, 255);color:black;} 
+  100% {background-color: #b8b268;color:white;} 
+}
+/*estado scrollspy*/
+.bgNav{
+    background-color: #4c3041;
+}
+.text-color-nav{
+    color: rgb(159, 158, 158);
+}
+.text-color-nav:hover{
+    color: rgb(255, 255, 255);
+    transition: 1s;
+}
+.fontSizeNav{
+    font-size: 24px;
+}
+.logoImg{
+    width: 200px;
+    height: auto;
+}
+.separarElementos{
+   margin-left: 1rem!important;
+   margin-right: 1rem!important;
+}
+.centradoRedes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navFixed{
+    width: 100%;
+    height: auto;
+    margin-top: -7rem;
+    position: fixed;
+    z-index: 10;
+}
+.textoSlider{
+    width: auto;
+    height: auto;
+    padding: 2%;
+    color: rgb(255, 255, 255)!important;
+    background-color: #4c3041f2;
+    /*evitar desbordar texto de la caja */
+    overflow-wrap: break-word;
+     /*evitar desbordar texto de la caja */
+}
+.espacioParaFixNav{
+    margin-top: 7rem;
+}
+.imgTamanio{
+width:auto;
+height: auto;
+}
+.mBottom{
+    margin-bottom: 3.5rem;
+}
+.grafico{
+    width: 100%!important;
+    height: auto!important;
+}
+.tamanioRow{
+    width: 100%!important;
+    height: auto;
+}
+.contengoTamanio{
+    width: 100%!important;
+    height: auto;
+  
+}
+/* .imgFija{
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%!important;
+    height: auto;
+    min-height: 50vh;
+    background-image: url("../img/equipo.png");
+    background-position:  center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+  } */
+  .imgFija{
+    height: 65vh;
+    background-image: url("../img/equipo.png");
+    background-position: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contactoBg{
+    /* padding: 3.5%; */
+    width: 100%;
+    height: auto;
+  
+    background-image: url("../img/bgContacto.png");
+    background-position:  center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0.05rem;
+  }
+  .estiloBtn{
+    width: 30%;
+    height: auto;
+    padding: 1%;
+    background-color:#4c304156;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+  }
+  .estiloBtn:hover{
+    width: 30%;
+    height: auto;
+    padding: 1%;
+    background-color:white;
+    color: #4c3041e0;
+    border: 1px solid white;
+    border-radius: 5px;
+    transition: 1.2s;
+  }
+  .inputsEstilos{
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    background-color:#4c304156;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+  }
+  .inputsEstilosCap{
+    width: 40%;
+    height: auto;
+    padding: 1%;
+    background-color:#4c304156;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+  }
+.formularioAjustes{
+    width: 80%;
+    height: auto;
+}
+.mapaContacto{
+    max-width: 100%;
+    width: 80%;
+    height: 17rem;
+   
+    border-radius: 5px;
+}
+.datosContacto{
+        width: 80%;
+        height: auto;
+    }
+    .datosRedes{
+        width: 72%;
+        height: auto;
+    }    
+.imgCap{
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+}
+.displayNone{
+    display: none;
+}
+.lineaFooter{
+    border: 1px dashed rgb(252, 252, 252); height: 0; width: 90%;
+  }
+  .topAnclas{
+    margin-top:-18%!important;
+  }
+.colorVerde{
+    color: #b8b268;
+  
+}
+/*Php formulario*/
+.enviadoOk{
+    width: auto;
+    height: auto;
+   /* margin-top: 2%!important;*/
+   
+    font-size: 18px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    animation-name: animOK;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+}
+.enviadoError{
+    width: auto;
+    height: auto;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    animation-name: animError;
+    animation-duration: 16s;
+    animation-iteration-count: infinite;
+}
+@keyframes animOK{
+    0% {background-color: rgb(1, 102, 1);color:white;} 
+   25% {background-color: rgb(0, 255, 0);color:black;} 
+   50% {background-color: rgb(1, 102, 1);color:white;}
+   75% {background-color: rgb(1, 255, 1);color:black;} 
+  100% {background-color: rgb(1, 102, 1);color:white;} 
+}
+@keyframes animError{
+    0% {background-color: rgb(135, 4, 4);color:white;}
+   25% {background-color: rgb(253, 37, 37);color:rgb(0, 0, 0);}
+   50% {background-color: rgb(135, 4, 4);color:white;} 
+   75% {background-color: rgb(253, 37, 37);color:rgb(0, 0, 0);} 
+  100% {background-color: rgb(135, 4, 4);color:white;} 
+}
+.anularPantalla{
+    display:none;
+}
+/*php formulario*/
