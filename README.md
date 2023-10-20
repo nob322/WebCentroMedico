@@ -1,5 +1,5 @@
 # WebCentroMedico
-                                              Dios conmigo, quién contra mí.
+                                            Dios conmigo, quién contra mí.
 <br>
 <!--<img src="https://github.com/testTPU/1/blob/main/logo-en-blanco.png?raw=true">-->
 <br>
