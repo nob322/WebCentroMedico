@@ -7,7 +7,7 @@
     <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp" width="660">
 </div>
 <br>
-          Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5, Html 5
+                        Dios con  Un sitio web que desarrollé con Php 8 + Ajax, Js, Bootrap5, Html 5
 <br>
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="660"/ autoplay>
