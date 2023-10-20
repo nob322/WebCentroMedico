@@ -26,12 +26,8 @@ function ajax_post(event){
     xmlhttp.open("POST", "procesador/procesa.php", true);
     xmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xmlhttp.send(informacionDelUsuario);
-    /*const http = new XMLHttpRequest();
-    const url = "../procesador/procesa.php";*/
 }
-/* document.getElementById("btnEnviar").addEventListener("click",function(){
-    ajax();
-}) */
+
 
 
 
